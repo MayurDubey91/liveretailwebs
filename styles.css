@@ -168,7 +168,7 @@ input, textarea {
 input:focus, textarea:focus { outline: 2px solid var(--red); border-color: transparent; }
 textarea { min-height: 120px; resize: vertical; }
 .contact-meta { color: var(--muted); }
-.contact-meta a { color: #fff; }
+.form-status { margin: 4px 0 0; color: #fff; font-size: 14px; }
 
 .site-footer {
   width: min(var(--max), calc(100% - 40px));
